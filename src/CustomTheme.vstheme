@@ -1779,7 +1779,7 @@
         <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundAlternate">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
     </Category>
     <Category Name="ClientDiagnosticsMemory" GUID="{4ec0c2e0-c165-47be-9f29-2d2b73ad3e93}">
@@ -4401,7 +4401,7 @@
         <Background Type="CT_RAW" Source="FFFBD03C" />
       </Color>
       <Color Name="HelpSearchResultSelectedBackground">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="HelpSearchResultSelectedText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -6255,7 +6255,7 @@
         <Background Type="CT_RAW" Source="FFFFF5C6" />
       </Color>
       <Color Name="MonacoGotolineHoverBackgroundColor">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="MonacoGotolineSelectedBackgroundColor">
         <Background Type="CT_RAW" Source="FF3399FF" />
@@ -6359,7 +6359,7 @@
         <Background Type="CT_RAW" Source="FF848C9E" />
       </Color>
       <Color Name="GridLines">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="SelectedCellBorder">
         <Background Type="CT_RAW" Source="FFA0A0A0" />
@@ -7344,7 +7344,7 @@
       </Color>
       <Color Name="ButtonBackground">
         <Background Type="CT_RAW" Source="FF595959" />
-        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="ButtonBorder">
         <Background Type="CT_RAW" Source="FF282E3C" />
@@ -7384,7 +7384,7 @@
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FF424242" />
-        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="ButtonPressedBorder">
         <Background Type="CT_RAW" Source="FF1A1A1A" />
@@ -9499,13 +9499,13 @@
         <Background Type="CT_RAW" Source="FFFFEEAB" />
       </Color>
       <Color Name="AnnotationBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="AnnotationBackgroundGradientMiddle">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="AnnotationBorder">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="AnnotationDockButton">
         <Background Type="CT_RAW" Source="FF424242" />
@@ -9586,7 +9586,7 @@
         <Background Type="CT_RAW" Source="FFCCD0E2" />
       </Color>
       <Color Name="WorkflowViewElementBackground">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="WorkflowViewElementBorder">
         <Background Type="CT_RAW" Source="FFADB6C7" />
@@ -9598,7 +9598,7 @@
         <Background Type="CT_RAW" Source="FFFFF5C6" />
       </Color>
       <Color Name="AnnotationBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="PropertyInspectorToolBarTextBoxBorder">
         <Background Type="CT_RAW" Source="FFFFFFFF" />

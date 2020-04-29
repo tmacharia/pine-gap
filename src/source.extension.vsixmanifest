@@ -4,6 +4,7 @@
         <Identity Id="PineGapDark.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="Neon Clouds" />
         <DisplayName>Pine Gap Dark</DisplayName>
         <Description xml:space="preserve">Based on the VS Code theme Ayu Mirage Bordered by ayu-theme</Description>
+        <Icon>logo.png</Icon>
         <Preview>true</Preview>
     </Metadata>
     <Installation>
