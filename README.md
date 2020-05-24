@@ -28,8 +28,6 @@ Pine Gap is a visual studio IDE theme extension
 
 ### C#
 
-![vs cs](img/vs-cs-1.PNG)
-
 ![vs cs](img/vs-cs-2.PNG)
 
 ![vs cs](img/vs-cs-3.PNG)
