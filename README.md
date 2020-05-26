@@ -1,6 +1,6 @@
 # Pine Gap - Visual Studio Theme
 
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NeonClouds.pinegap-dark?style=flat-square)
+<!-- ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NeonClouds.pinegap-dark?style=flat-square) -->
 
 ![banner-image](https://raw.githubusercontent.com/tmacharia/pine-gap/master/img/banner.png)
 
@@ -37,7 +37,8 @@ Once you've installed the extension, open visual studio, open options and select
 
 ![json-img](https://raw.githubusercontent.com/tmacharia/pine-gap/master/img/json.png)
 
-## Thanks
+## Credits
 
 + Many thanks to [Microsoft](https://marketplace.visualstudio.com/publishers/Microsoft) for creating the tool ([Visual Studio Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)) that was used in the design & editing of this extension.
+
 + Thanks to [Yeshi Kangrang](https://unsplash.com/@omgitsyeshi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/city?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) for the photo used in the banner image above.
