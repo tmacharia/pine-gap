@@ -1266,7 +1266,7 @@
       </Color>
       <Color Name="ListItemSelected">
         <Background Type="CT_RAW" Source="FFFBD03C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="ListItemDisabledBorder">
         <Background Type="CT_RAW" Source="FF282E3C" />
@@ -1691,11 +1691,11 @@
       </Color>
       <Color Name="BreadcrumbButtonSelected">
         <Background Type="CT_RAW" Source="FFFBD03C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="BreadcrumbButtonSelectedOnHover">
         <Background Type="CT_RAW" Source="FFFCDA61" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="ListHeader">
         <Background Type="CT_RAW" Source="FF232834" />
@@ -2106,11 +2106,11 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF0C152C" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF32394B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_RAW" Source="FFFBD03C" />
@@ -8740,7 +8740,7 @@
       </Color>
       <Color Name="SelectedItemActive">
         <Background Type="CT_RAW" Source="FFFBD03C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="SelectedItemInactive">
         <Background Type="CT_RAW" Source="FF32394B" />
@@ -8872,7 +8872,7 @@
       </Color>
       <Color Name="SelectedItemActive">
         <Background Type="CT_RAW" Source="FFFBD03C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="SelectedItemInactive">
         <Background Type="CT_RAW" Source="FF32394B" />
