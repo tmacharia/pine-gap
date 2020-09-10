@@ -6808,7 +6808,7 @@
     </Category>
     <Category Name="SearchControl" GUID="{f1095fad-881f-45f1-8580-589e10325eb8}">
       <Color Name="Selection">
-        <Background Type="CT_RAW" Source="FFFBD03C" />
+        <Background Type="CT_RAW" Source="FF232834" />
         <Foreground Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="MouseOverBackground">
@@ -8895,7 +8895,7 @@
         <Background Type="CT_RAW" Source="FFFBD03C" />
       </Color>
       <Color Name="SelectedItemActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF32394B" />
       </Color>
       <Color Name="DragOverItem">
         <Background Type="CT_RAW" Source="FF32394B" />
