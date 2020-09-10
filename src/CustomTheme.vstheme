@@ -5226,7 +5226,7 @@
         <Background Type="CT_RAW" Source="FF232834" />
       </Color>
       <Color Name="TitleBarDragHandleActive">
-        <Background Type="CT_RAW" Source="FFD5C57D" />
+        <Background Type="CT_RAW" Source="FF32394B" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverGlyph">
         <Background Type="CT_RAW" Source="FFE1D3E4" />
@@ -10013,6 +10013,15 @@
       </Color>
       <Color Name="WindowButtonHoverGlyph">
         <Background Type="CT_RAW" Source="FFFBD03C" />
+      </Color>
+      <Color Name="ActiveCaption">
+        <Background Type="CT_RAW" Source="FF232834" />
+      </Color>
+      <Color Name="WindowBorder">
+        <Background Type="CT_RAW" Source="FFF8CE3C" />
+      </Color>
+      <Color Name="WindowPanel">
+        <Background Type="CT_RAW" Source="FF171F30" />
       </Color>
     </Category>
   </Theme>
